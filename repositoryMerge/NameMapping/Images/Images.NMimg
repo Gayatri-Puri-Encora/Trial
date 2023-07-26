@@ -4,16 +4,6 @@
 		<Image File="358521812.png" Checksum="-505161229" />
 		<Image File="358709015.png" Checksum="33968188" />
 		<Image File="358741703.png" Checksum="777014996" />
-		<Image File="604602171.png" Checksum="-694012274" />
-		<Image File="604602390.png" Checksum="437359785" />
-		<Image File="604602531.png" Checksum="679380129" />
-		<Image File="604602671.png" Checksum="542980246" />
-		<Image File="604602796.png" Checksum="625913350" />
-		<Image File="604602937.png" Checksum="-1135846435" />
-		<Image File="604603062.png" Checksum="-2141111965" />
-		<Image File="604603203.png" Checksum="-1370557854" />
-		<Image File="604603343.png" Checksum="1933691182" />
-		<Image File="604603484.png" Checksum="992912179" />
 		<Image File="604603578.png" Checksum="1363955982" />
 		<Image File="604603843.png" Checksum="1886960654" />
 		<Image File="604604234.png" Checksum="1219801353" />
@@ -74,60 +64,5 @@
 		<Image File="604613093.png" Checksum="214933964" />
 		<Image File="604613468.png" Checksum="-1558213835" />
 		<Image File="604613687.png" Checksum="-1681884727" />
-		<Image File="604613921.png" Checksum="-305464481" />
-		<Image File="604614125.png" Checksum="-1953366167" />
-		<Image File="604614328.png" Checksum="-929381500" />
-		<Image File="604614515.png" Checksum="333192998" />
-		<Image File="604614703.png" Checksum="-1790335563" />
-		<Image File="604615046.png" Checksum="1926452773" />
-		<Image File="604615296.png" Checksum="2062047806" />
-		<Image File="604615562.png" Checksum="-600898300" />
-		<Image File="604615828.png" Checksum="-1230187616" />
-		<Image File="604616125.png" Checksum="-1016230169" />
-		<Image File="604616421.png" Checksum="-917169158" />
-		<Image File="604616687.png" Checksum="-1306055732" />
-		<Image File="604616984.png" Checksum="1509781716" />
-		<Image File="604617281.png" Checksum="-1774949600" />
-		<Image File="604617562.png" Checksum="448868278" />
-		<Image File="604617859.png" Checksum="-2025386574" />
-		<Image File="604618140.png" Checksum="-1854858260" />
-		<Image File="604618437.png" Checksum="1515983677" />
-		<Image File="604618734.png" Checksum="1156281332" />
-		<Image File="604619015.png" Checksum="-1427062947" />
-		<Image File="604619312.png" Checksum="-1892481054" />
-		<Image File="604619609.png" Checksum="778857692" />
-		<Image File="604619875.png" Checksum="774649776" />
-		<Image File="604620140.png" Checksum="1745032925" />
-		<Image File="604620421.png" Checksum="596695889" />
-		<Image File="604620687.png" Checksum="1191589963" />
-		<Image File="604620921.png" Checksum="-716720963" />
-		<Image File="604621187.png" Checksum="14959838" />
-		<Image File="604621453.png" Checksum="-1120860569" />
-		<Image File="604621703.png" Checksum="527352920" />
-		<Image File="604621921.png" Checksum="375535028" />
-		<Image File="604622125.png" Checksum="-649315763" />
-		<Image File="604622312.png" Checksum="-442411658" />
-		<Image File="604622515.png" Checksum="-926658612" />
-		<Image File="604622765.png" Checksum="-914091950" />
-		<Image File="604622968.png" Checksum="-1600417169" />
-		<Image File="604623218.png" Checksum="69262067" />
-		<Image File="604623390.png" Checksum="1897097549" />
-		<Image File="604623578.png" Checksum="-1488764152" />
-		<Image File="604623796.png" Checksum="522994645" />
-		<Image File="604624015.png" Checksum="257945617" />
-		<Image File="604624203.png" Checksum="-1871096791" />
-		<Image File="604624406.png" Checksum="-1857503759" />
-		<Image File="604624593.png" Checksum="-891528704" />
-		<Image File="604624781.png" Checksum="1701886200" />
-		<Image File="604624984.png" Checksum="-70770064" />
-		<Image File="604625156.png" Checksum="789848344" />
-		<Image File="604625375.png" Checksum="-1806179247" />
-		<Image File="604625562.png" Checksum="165477486" />
-		<Image File="604625750.png" Checksum="-1065600121" />
-		<Image File="604625953.png" Checksum="776582911" />
-		<Image File="604626218.png" Checksum="862087276" />
-		<Image File="604626406.png" Checksum="-63399951" />
-		<Image File="604626625.png" Checksum="493101068" />
-		<Image File="604626859.png" Checksum="-254187242" />
 	</Images>
 </Root>
