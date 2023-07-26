@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{84A3F71B-485F-4CA0-9058-15CB1C892B83}">
+				<TypeInfo Item0="{14B7A876-E002-4731-AB7F-60837B4880EB}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Pulse" Key="{D6B4537D-EEAF-422E-A14A-6DB646E3260E}">
+						<TypeInfo Item0="{799A90E8-E175-4232-95A5-04FD78FA10F4}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Pulse" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndJamShadowClass" Key="{CB2D1695-9596-4D1E-AA2F-7A41ED028DA1}">
+								<Image FileName="-505161229" Left="0" Top="0" Right="322" Bottom="434" />
+								<TypeInfo Item0="{0E45DB99-FFF9-459C-889E-A392551AE06C}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="JamShadowClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Pulse Secure" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="C4B820" Key="{AA9B317B-8EAB-4F3A-97C5-AFB01DA29226}">
+										<Image FileName="-505161229" Left="10" Top="84" Right="312" Bottom="349" />
+										<TypeInfo Item0="{88DAFC92-67FB-4D0E-B5FA-CC293924CC63}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ATL:*" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="page32770" Key="{80967D83-12C3-44CC-8121-5389ADCF6B3D}">
+												<Image FileName="-505161229" Left="12" Top="117" Right="310" Bottom="347" />
+												<TypeInfo Item0="{88DAFC92-67FB-4D0E-B5FA-CC293924CC63}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="#32770" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="JAM_LIST_WINDOW" Key="{7BBF9D2A-6EC4-4A3B-B267-692A36DC5695}">
+														<Image FileName="-505161229" Left="12" Top="117" Right="310" Bottom="228" />
+														<TypeInfo Item0="{88DAFC92-67FB-4D0E-B5FA-CC293924CC63}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="JAM_LIST_WINDOW" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="MedAvail" Key="{7BAA234C-6E75-497C-AFAB-6D111677C6CD}">
+																<Image FileName="-505161229" Left="12" Top="117" Right="310" Bottom="154" />
+																<TypeInfo Item0="{88DAFC92-67FB-4D0E-B5FA-CC293924CC63}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="JAM_LISTITEM" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="MedAvail" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Disconnect" Key="{6DDD3F48-1D62-4433-B0F0-933CFE93FB2A}">
+																		<Image FileName="-505161229" Left="221" Top="123" Right="305" Bottom="147" />
+																		<TypeInfo Item0="{88DAFC92-67FB-4D0E-B5FA-CC293924CC63}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="JAM_BitmapButton" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="Disconnect" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{3A221518-2A70-4403-BF24-9DE934A6178D}">
+						<TypeInfo Item0="{02569E14-446A-4224-B901-71C660081F37}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="chrome" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageNewtab" Key="{9B9C5CD3-A49E-4889-82B5-DF28D899177A}">
+								<Image FileName="33968188" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{0CD2A1A6-F264-41EC-82AF-D0A4B2700FC1}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="chrome://newtab/" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageActionPropertiesRanorex" Key="{B8FA837A-C4C4-47A1-8484-7E5D5664FFBE}">
+								<Image FileName="777014996" Left="8" Top="79" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{0CD2A1A6-F264-41EC-82AF-D0A4B2700FC1}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://support.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/detailed-list-actions/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeDescription" Key="{01286A8F-809F-44DA-8B0D-AB931F16D6D9}">
+										<Image FileName="777014996" Left="666" Top="259" Right="1564" Bottom="295" />
+										<TypeInfo Item0="{948E3641-569D-4448-9B47-CF21BF86D723}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[@id=&apos;main-content&apos;]//div[13]//h3" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[13]//h3" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{1A96526B-C9DA-43F7-9B0A-1206DB76B40E}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="page403ForbiddenAccessIsDenied" Key="{CA9BD092-8EC8-43F6-9E3E-963C48E8968E}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://qa1.medplatform.medavail.com/Meddispense" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeYouDoNotHavePermissionTo" Key="{D6C5FD07-02EC-4918-8EA3-6E3228740C8F}">
+										<Selectors>
+											<Selector>
+												<Value Value="//h3" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Pulse" Owner="{D6B4537D-EEAF-422E-A14A-6DB646E3260E}">
+			<Child Name="wndJamShadowClass" Owner="{CB2D1695-9596-4D1E-AA2F-7A41ED028DA1}">
+				<Child Name="C4B820" Owner="{AA9B317B-8EAB-4F3A-97C5-AFB01DA29226}">
+					<Child Name="page32770" Owner="{80967D83-12C3-44CC-8121-5389ADCF6B3D}">
+						<Child Name="JAM_LIST_WINDOW" Owner="{7BBF9D2A-6EC4-4A3B-B267-692A36DC5695}">
+							<Child Name="MedAvail" Owner="{7BAA234C-6E75-497C-AFAB-6D111677C6CD}">
+								<Child Name="Disconnect" Owner="{6DDD3F48-1D62-4433-B0F0-933CFE93FB2A}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{3A221518-2A70-4403-BF24-9DE934A6178D}">
+			<Child Name="pageNewtab" Owner="{9B9C5CD3-A49E-4889-82B5-DF28D899177A}" />
+			<Child Name="pageActionPropertiesRanorex" Owner="{B8FA837A-C4C4-47A1-8484-7E5D5664FFBE}">
+				<Child Name="textnodeDescription" Owner="{01286A8F-809F-44DA-8B0D-AB931F16D6D9}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
